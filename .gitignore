@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 运行产物
+.meter/
+dashboard.html
+
+# IDE
+.idea/
+.vscode/
+
+# 系统 / 临时
+.DS_Store
+*.log
