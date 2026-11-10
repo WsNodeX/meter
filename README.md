@@ -4,14 +4,13 @@
 
 ### 零依赖的 LLM 调用观测与成本分析 —— 你的 API 账单不该是一笔糊涂账
 
-[![CI](https://img.shields.io/badge/CI-passing-brightgreen)](https://github.com/WsNodeX/meter/actions)
-[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776ab)](https://www.python.org)
-[![Dependencies](https://img.shields.io/badge/dependencies-0-lightgrey)](#设计原则)
+[![Stars](https://img.shields.io/github/stars/WsNodeX/meter?style=flat-square&color=111111&label=stars)](https://github.com/WsNodeX/meter/stargazers)
+[![Release](https://img.shields.io/github/v/release/WsNodeX/meter?style=flat-square&color=111111&label=release)](https://github.com/WsNodeX/meter/releases)
+[![License](https://img.shields.io/badge/license-MIT-111111?style=flat-square)](LICENSE)
 
 **接入只要三行代码：记下每次调用的 token、延迟、成本，一条命令生成单文件 HTML 面板。**
 
-<img src="https://cdn.jsdelivr.net/gh/WsNodeX/meter@main/screenshots/dashboard.png" alt="Meter 面板截图" width="860">
+<img src="screenshots/dashboard.png" alt="Meter 面板截图：成本按模型分布、每日花费折线、失败调用列表" width="860">
 
 </div>
 
